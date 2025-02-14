@@ -29,7 +29,7 @@ pip install pygame
 3. Clone or download this repository
 4. Run the game:
 ```bash
-python snake_game.py
+python main.py
 ```
 
 ## 🎯 Game Rules
